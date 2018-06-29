@@ -19,8 +19,8 @@ vector <Complex>o;
 	
 		o.push_back(Complex(i,i));
 	r = o[2];
-	view(r);//вывод эл вект
-	o[2] = Complex(1, 4);//изменение эл вект
+	view(r);//РІС‹РІРѕРґ РІС‚РѕСЂРѕРіРѕ СЌР»
+	o[2] = Complex(1, 4);//РґРѕР±Р°РІР»РµРЅРёРµ 2 СЌР» РІ РІРµРєС‚
 	view(o[2]);
 	Complex a(1,2);
 	Complex b(1, 2);
